@@ -1,0 +1,11 @@
+employee_id,original_text,processed_text,sentiment,positive_score,negative_score,neutral_score,compound_score
+E001,I absolutely love my job and my team is amazing.,absolutely love job team amaze,Positive,0.542,0.0,0.458,0.8516
+E002,I am very stressed because of my workload.,stress workload,Negative,0.0,0.31,0.69,-0.4005
+E003,The meeting was conducted today.,meeting conduct today,Neutral,0.0,0.0,1.0,0.0
+E004,I am happy with the support from my manager.,happy support manager,Positive,0.516,0.0,0.484,0.7506
+E005,The work environment is terrible and frustrating.,work environment terrible frustrate,Negative,0.0,0.545,0.455,-0.7184
+E006,I enjoy learning new technologies at work.,enjoy learn new technology work,Positive,0.39,0.0,0.61,0.4939
+E007,My workload is extremely heavy and exhausting.,workload extremely heavy exhaust,Negative,0.0,0.315,0.685,-0.4144
+E008,Everything is okay and normal.,everything okay normal,Positive,0.322,0.0,0.678,0.2263
+E009,I feel motivated and excited about the new project.,feel motivate excite new project,Positive,0.474,0.0,0.526,0.6597
+E010,I am disappointed with the lack of communication.,disappointed lack communication,Negative,0.0,0.519,0.481,-0.6597
